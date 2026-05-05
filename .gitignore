@@ -3,7 +3,10 @@
 .idea
 bin
 cmake-build-debug
+build
 lib
+.codex
 
 *.out
 *.a
+*:Zone.Identifier
