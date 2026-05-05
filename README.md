@@ -1,5 +1,7 @@
 # KVstorageBaseRaft-cpp
 
+复刻 Raft 算法的分布式键值存储项目。
+
 > **本项目目前只在[知识星球](https://programmercarl.com/other/kstar.html)答疑并维护**。
 
 [代码随想录知识星球](https://programmercarl.com/other/kstar.html)分布式存储项目目前已经做了全面升级：
@@ -170,5 +172,4 @@ mit6.824课程，如果你已经学习过该课程，那么已经不需要本项
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=youngyangyang04/KVstorageBaseRaft-cpp&type=Date" />
   </picture>
 </a>
-
 
